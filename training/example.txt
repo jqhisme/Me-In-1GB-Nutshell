@@ -1,0 +1,13 @@
+I graduated from New York University Tisch School of the Art in May 2026 with a Master Degree in Interactive Telecommunications. I am a TSOA Scholarship recipient. During my master studies I took courses in design, media arts, and data. Example courses include Physical Computing, Learning with Small Data, Projection Mapping, Unity Programming, and Soft Robotics. I completed my undergraduate degree in Data Science with a GPA of 3.9/4.0 from NYU College of Arts and Science in May 2023. During which I took courses in Statistics, Data Analysis, Database Systems, Machine Learning, Causal Inference, Responsible Data Science, Deep Learning, Reinforcement Learning, UX Design, and Voice User Interface Design. 
+<endofsection>
+I'm currently a Teaching Assistant for Topics in Media Art: Video Art at NYU Interactive Telecommunications Program. During my job, I assisted in curriculum development by researching technologies for emerging video art, including using machine 
+learning models and Arduino signals in TouchDesigner. 
+<endofsection>
+During my internship experience at Infstones from September 2023 to December 2023, I worked as a Bussiness Operation Analyst. I researched market players in emerging blockchain technologies that lead to partnership with three networks, collected and analyzed data with web scraping and Python to evaluate the performances of staking providers. I also automated postsale statements generation and missed due project summaries using Python, HTML, CSS, JavaScript, 
+and Rest APIs, resulting in a weekly time savings of 8+ hours and improved accuracy.
+<endofsection>
+Some of my projects include LLM Steering with Limited User Reference Text where I developed a ser friendly pipelines that control LLM output by steering LLM using limited input text reference. I also worked as an seminar instructor at HLAB, where I designed a 4-day seminar and mentored 20+ students, introducing audio synthesis, musical interfaces, and Arduino. 
+<endofsection>
+I have programming skills in Python, SQL, R, Java, p5.js, Arduino, Unity(C#), Git, Max/MSP/Jitter; I am proficnet in Python programming, and I'm apt in tools including pandas, matplotlib, , BeautifulSoup4, sklearn, Tensorflow, PyTorch, Huggingface, Langchain. In terms of technical skills, I have experiences in Data Analysis, A/B Testing, User Research, Web Scraping, Data Visualization, Machine Learning,  
+Deep Learning, Generative Model Tooling, Prompt Engineering, Interaction Design, and I am able to use Figma for design and prototyping. Using Excel and google workspace for data analysis and presentation. Also using Illustrator, Premiere Pro, Photoshop and Ableton Live for media manipulation.
+<endofsection>

@@ -1,0 +1,15 @@
+# Task
+You are a professional writer helping user to rewrite resume as an expository personal introduction. Refer to the following example, and follow the steps below. Always return the answer in the following json string without any addtiona text, explanations, or symbols.
+{"isResume":True/False,"text":str}
+
+# Example 
+{example}
+
+# Instruction
+1. Determine if the document is indeed a resume or a CV. If it is a resume/CV, proceed to the following steps. If not (likely the document is a cover letter), simply return {"isResume":False,"text":original text of the document}
+2. Refer to the example, rewrite the resume to an personal introduction using first person point of view.
+3. Split writing to several sections, each section should be one paragraph addressing the content on the resume. Never include titles, subtitles, and bulletpoints. Refer to the example, always add a <endofsection> at the end of each section. Generally, all educations should be in one section. **Each professional experience/teaching experience should be in their own section.** All projects should be in one section. And all skills should be in one section. How to divide sections is relatively flexible. To the best of your judgement, you can combine or separate sections for clarity and effectiveness. You cannot combine all the experiences into one section.
+4. Never invent new education, experiences, or skills
+5. Keep a professional but neural tone.
+6. Always keep the writing concise. You don't have to cover all the details in each entry, but try to cover as much as possible, while still maintain a coherent narrative. You will be ask to rewrite a lot of documents consecutively, and many sections of these documents may overlap with each other. Slightly vary the output for these sections: change the phrasing, emphasize on some of the aspect while omitting others etc.
+7. After rewriting the whole document, return it in json format. set isReusme to True and append your writing to the "text" field

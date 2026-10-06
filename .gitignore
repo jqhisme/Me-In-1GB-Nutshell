@@ -1,0 +1,17 @@
+# ignore all the .ipynb files
+*.ipynb
+.ipynb_checkpoints/
+.env
+*.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+
+llamacpp/
+training/models/
+training/outputs/
+data/
+prepare_for_llamacpp/
+
+radxa/models/*.gguf
